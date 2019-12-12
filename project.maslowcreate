@@ -10,6 +10,23 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "RegularPolygon",
+                    "name": "RegularPolygon",
+                    "x": 488,
+                    "y": 179,
+                    "uniqueID": 875887,
+                    "ioValues": [
+                        {
+                            "name": "number of sides",
+                            "ioValue": 6
+                        },
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1408,
